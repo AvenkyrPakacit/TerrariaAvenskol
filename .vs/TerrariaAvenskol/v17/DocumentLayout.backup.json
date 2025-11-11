@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pwthe\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TerrariaAvenskol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A441B509-99C9-448D-E44A-DB0A931F6AC7}|TerrariaAvenskol.csproj|c:\\users\\pwthe\\documents\\my games\\terraria\\tmodloader\\modsources\\terrariaavenskol\\localization\\en-us_mods.terrariaavenskol.hjson||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A441B509-99C9-448D-E44A-DB0A931F6AC7}|TerrariaAvenskol.csproj|solutionrelative:localization\\en-us_mods.terrariaavenskol.hjson||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "en-US_Mods.TerrariaAvenskol.hjson",
+              "DocumentMoniker": "C:\\Users\\pwthe\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TerrariaAvenskol\\Localization\\en-US_Mods.TerrariaAvenskol.hjson",
+              "RelativeDocumentMoniker": "Localization\\en-US_Mods.TerrariaAvenskol.hjson",
+              "ToolTip": "C:\\Users\\pwthe\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TerrariaAvenskol\\Localization\\en-US_Mods.TerrariaAvenskol.hjson",
+              "RelativeToolTip": "Localization\\en-US_Mods.TerrariaAvenskol.hjson",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-28T13:53:19.381Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

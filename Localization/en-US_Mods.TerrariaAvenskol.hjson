@@ -1,0 +1,135 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	TA_SignateBlade: {
+		DisplayName: Signate Blade
+		Tooltip: The signature blade of The Veidancyri, upon which the blade protects the innocent.
+	}
+
+	TA_AvyramitPick: {
+		DisplayName: Avyramit Pick
+		Tooltip: "''Decorated with fresh Adwena!''"
+	}
+
+	TA_IkyriumPick: {
+		DisplayName: Ikyrium Pick
+		Tooltip: "''Decorated with crystalized Ikfiinia!''"
+	}
+
+	TA_IkyriumChest: {
+		DisplayName: Ikyrium Chest
+		Tooltip: ""
+	}
+
+	TA_IkyriumLegs: {
+		DisplayName: Ikyrium Legs
+		Tooltip: ""
+	}
+
+	TA_IkyriumHeadSummon: {
+		DisplayName: Imbued Ikyrium Helm
+		Tooltip: Imbued with crystalized Ikfiinia
+	}
+
+	TA_IkyriumHead: {
+		DisplayName: Ikyrium Helm
+		Tooltip: ""
+	}
+
+	TA_AdwenaOre: {
+		DisplayName: Adwena Ore
+		Tooltip: Fresh Adwena
+	}
+
+	TA_AvyramitOre: {
+		DisplayName: Avyramit Ore
+		Tooltip: ""
+	}
+
+	TA_IkfiiniaOre: {
+		DisplayName: Ikfiinia Ore
+		Tooltip: Crystalized Ikfiinia
+	}
+
+	TA_IkyriumOre: {
+		DisplayName: Ikyrium Ore
+		Tooltip: ""
+	}
+
+	TA_AdwenaBar: {
+		DisplayName: Adwena Bar
+		Tooltip: ""
+	}
+
+	TA_AvyramitBar: {
+		DisplayName: Avyramit Bar
+		Tooltip: ""
+	}
+
+	TA_IkfiiniaBar: {
+		DisplayName: Ikfiinia Bar
+		Tooltip: ""
+	}
+
+	TA_IkyriumBar: {
+		DisplayName: Ikyrium Bar
+		Tooltip: ""
+	}
+
+	TA_AzakstrafaBar: {
+		DisplayName: Azakstrafa Bar
+		Tooltip: ""
+	}
+
+	TA_AzyrtrumBar: {
+		DisplayName: Azyrtrum Bar
+		Tooltip: ""
+	}
+
+	TA_AzakstrafaOre: {
+		DisplayName: Azakstrafa Ore
+		Tooltip: ""
+	}
+
+	TA_AzyrtrumOre: {
+		DisplayName: Azyrtrum Ore
+		Tooltip: Crystalized Azyrtrum
+	}
+
+	TA_IkyriumAnvil: {
+		DisplayName: Ikyrium Anvil
+		Tooltip: ""
+	}
+
+	TA_AvyramitAxe: {
+		DisplayName: Avyramit Axe
+		Tooltip: "''Decorated with fresh Adwena!''"
+	}
+
+	TA_IkyriumAxe: {
+		DisplayName: Ikyrium Axe
+		Tooltip: "''Decorated with crystalized Ikfiinia!''"
+	}
+
+	TA_IkyriumHeadMage: {
+		DisplayName: Ikyrium Mask
+		Tooltip: Imbued with crystalized Ikfiinia
+	}
+
+	TA_IkyriumHeadMelee: {
+		DisplayName: Ikyrium Helmet
+		Tooltip: ""
+	}
+}
+
+Tiles: {
+	TA_Adwena.MapEntry: Adwena Ore
+	TA_Avyramit.MapEntry: Avyramit Ore
+	TA_IkfiiniaOre.MapEntry: Ikfiinia Ore
+	TA_IkyriumOre.MapEntry: Ikyrium Ore
+	TA_AdwenaOre.MapEntry: Adwena Ore
+	TA_AvyramitOre.MapEntry: Avyramit Ore
+	TA_AzakstrafaOre.MapEntry: Azakstrafa Ore
+	TA_AzyrtrumOre.MapEntry: Azyrtrum Ore
+	TA_IkyriumAnvil.MapEntry: Ikyrium Anvil
+}
