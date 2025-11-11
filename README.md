@@ -1,2 +1,2 @@
 # TerrariaAvenskol
-The Official Avenskol Terraria mod
+The Official Avenskol Terraria mod.
