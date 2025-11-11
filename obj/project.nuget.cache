@@ -1,10 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "tNuFGNRQSTQ=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\pwthe\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TerrariaAvenskol\\TerrariaAvenskol.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\pwthe\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
-  ],
-  "logs": []
+  "dgSpecHash": "j57TISyC60I=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\pwthe\\OneDrive\\Desktop\\Developer\\Github Repositories\\TerrariaAvenskol\\TerrariaAvenskol.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to read project information for 'TerrariaAvenskol': Invalid framework identifier ''.",
+      "projectPath": "C:\\Users\\pwthe\\OneDrive\\Desktop\\Developer\\Github Repositories\\TerrariaAvenskol\\TerrariaAvenskol.csproj",
+      "filePath": "C:\\Users\\pwthe\\OneDrive\\Desktop\\Developer\\Github Repositories\\TerrariaAvenskol\\TerrariaAvenskol.csproj",
+      "targetGraphs": []
+    }
+  ]
 }
